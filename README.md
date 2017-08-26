@@ -3,7 +3,7 @@
 Using [window.Navigator.onLine](https://developer.mozilla.org/en-US/docs/Web/API/NavigatorOnLine/onLine) Web API
 
 ### Demo
-Check a simple example here: [Heroku app](...)
+Check a simple example here: [React offline app](https://react-offline-app.herokuapp.com/)
 
 ### Browser Support
 
