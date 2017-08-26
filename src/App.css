@@ -1,24 +1,24 @@
-.App {
+body{
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  margin: auto;
+  min-width: 310px;
+  width: 80%;
+  max-width: 600px;
+  padding: 100px 0 10px;
+  -webkit-animation: 300ms ease-out 0s 1 fadeIn;
+  animation: 300ms ease-out 0s 1 fadeIn;
+}
+h1 {
   text-align: center;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+h3 {
+  font-size: 18px;
+  color: pink;
+  text-align: center;
+  
 }
-
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
-}
-
-.App-intro {
-  font-size: large;
-}
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.offline h1,h3 {
+  color: black;
 }
