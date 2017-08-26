@@ -1,8 +1,8 @@
 
-###React Online Offline component
+### React Online Offline component
 Using [window.Navigator.onLine](https://developer.mozilla.org/en-US/docs/Web/API/NavigatorOnLine/onLine) Web API
 
-###Demo
+### Demo
 Check a simple example here: [Heroku app](...)
 
 ### Browser Support
